@@ -16,6 +16,4 @@ const MyMessage = ({message}) => {
     )
 }
 
-//#3B2A50
-
 export default MyMessage;
